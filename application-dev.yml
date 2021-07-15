@@ -1,2 +1,6 @@
 config:
+<<<<<<< HEAD
   info: "main branch,springcloud-config/application-dev.yml version=20"
+=======
+  info: "main branch,springcloud-config/application-dev.yml version=999"
+>>>>>>> ee050533baec37e4b8aed24a8b72689e2d3154ba
